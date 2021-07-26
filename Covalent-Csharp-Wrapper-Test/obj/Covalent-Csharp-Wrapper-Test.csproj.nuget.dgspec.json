@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper-Test\\Covalent-Csharp-Wrapper-Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper-Test\\Covalent-Csharp-Wrapper-Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper-Test\\Covalent-Csharp-Wrapper-Test.csproj",
+        "projectName": "Covalent-Csharp-Wrapper-Test",
+        "projectPath": "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper-Test\\Covalent-Csharp-Wrapper-Test.csproj",
+        "packagesPath": "C:\\Users\\frodriguez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper-Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\frodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper.csproj": {
+                "projectPath": "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper.csproj",
+        "projectName": "Covalent-Csharp-Wrapper",
+        "projectPath": "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper.csproj",
+        "packagesPath": "C:\\Users\\frodriguez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frodriguez\\Documents\\Visual Studio 2019\\Covalent-Csharp-Wrapper\\Covalent-Csharp-Wrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\frodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

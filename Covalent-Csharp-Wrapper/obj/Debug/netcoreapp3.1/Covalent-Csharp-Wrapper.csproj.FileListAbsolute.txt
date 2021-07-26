@@ -1,0 +1,26 @@
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.exe
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.deps.json
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.runtimeconfig.json
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.runtimeconfig.dev.json
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.dll
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.pdb
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.csproj.AssemblyReference.cache
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.AssemblyInfoInputs.cache
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.AssemblyInfo.cs
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.dll
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.pdb
+C:\Users\frodriguez\source\repos\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.genruntimeconfig.cache
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.exe
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.deps.json
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.runtimeconfig.json
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.runtimeconfig.dev.json
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.dll
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\bin\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.pdb
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.csproj.AssemblyReference.cache
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.AssemblyInfoInputs.cache
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.AssemblyInfo.cs
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.dll
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.pdb
+C:\Users\frodriguez\Documents\Visual Studio 2019\Covalent-Csharp-Wrapper\Covalent-Csharp-Wrapper\obj\Debug\netcoreapp3.1\Covalent-Csharp-Wrapper.genruntimeconfig.cache
